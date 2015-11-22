@@ -1,2 +1,2 @@
 # healthjson
-health.json file for CSCE 444.
+health.json file for CSCE 444
